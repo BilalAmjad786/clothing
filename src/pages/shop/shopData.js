@@ -8,13 +8,13 @@ const SHOP_DATA = [
         id: 1,
         name: 'Brown Brim',
         imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-        price: 25
+        price: 500
       },
       {
         id: 2,
         name: 'Blue Beanie',
         imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-        price: 18
+        price: 600
       },
       {
         id: 3,
@@ -210,7 +210,7 @@ const SHOP_DATA = [
         id: 1,
         name: 'Camo Down Vest',
         imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 325
+        price: 500
       },
       {
         id: 2,
@@ -245,3 +245,4 @@ const SHOP_DATA = [
     ]
   }
 ]
+export default SHOP_DATA;
